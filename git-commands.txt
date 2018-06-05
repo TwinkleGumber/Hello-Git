@@ -1,0 +1,17 @@
+COMMANDS                                  DESCRIPTION
+
+
+git init -                                used to initialize a  git repository inside your project folder
+
+git status -                              this command show you the status of your project 
+
+git add  [file] -                         tell git to track your changes or add your files insude project folder
+
+git commit -m ["descriptive message"]-    this command tells the git to create a checkpoint/version
+
+git push -                                used to upload all local branch commits (your project) to GitHub
+
+
+--- Git is the tool 
+
+--- GitHub is the service for projects that use Git  
